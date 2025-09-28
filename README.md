@@ -11,7 +11,6 @@
 
 - [Overview](#overview)
 - [Technologies](#technologies)
-- [Repository Structure](#repository-structure)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -26,13 +25,6 @@ This repository contains coursework and examples related to the "Database" cours
 - **SQL** — for writing and running queries, creating tables, and managing data
 - **Database Management Systems (DBMS)** — e.g. MySQL, PostgreSQL, SQLite (depending on your environment)
 - **PDF/Reports** — documentation explaining the designs and exercises
-
-## Repository Structure
-
-A typical layout might look like:
-
-
-Update this section to reflect your actual folder names.
 
 ## Key Features
 
